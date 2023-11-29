@@ -1,1 +1,2 @@
 # Machine_Learning_Project_01_IRIS_DATASET
+Welcome to my first machine learning project! In this project, I explored the famous IRIS dataset, a classic beginner's dataset in the realm of machine learning. The dataset comprises three classes, each containing 50 instances representing different types of iris plants. Notably, one class is linearly separable from the other two, while the latter two are not linearly separable from each other.
